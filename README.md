@@ -3,7 +3,7 @@
 
 [![Refact counter](https://count.getloli.com/get/@:refact?theme=rule30)](https://github.com/msrefs)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=true&width=435&lines=A+farmer+in+Henan+Province.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006BD4&random=true&width=435&lines=A+farmer+in+Henan+Province.)](https://git.io/typing-svg)
 
 ---
 
