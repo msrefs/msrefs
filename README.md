@@ -12,7 +12,7 @@
 ```bash
 msrefs@github
 ───────────
-操作系统/OS: macOS Sequoia 15.6, Windows11, Ubuntu 22.04 LTS
+操作系统/OS: macOS Sequoia 15.6, Windows11, Debian 13 Trixie
 职业/Jobs: 农民, 学生/Farmer, Student.                           ／＞　 フ
 爱好/Hobbys: 无人在意/Nobody cares                              | 　_　_|
 技能/Skills:                                                 ／` ミ＿xノ
